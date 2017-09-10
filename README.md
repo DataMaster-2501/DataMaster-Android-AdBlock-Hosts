@@ -11,7 +11,7 @@ You may also use this list with https://github.com/gorhill/uBlock
 
 Keep in mind that if you really like to watch videos on news websites,
 then this list may not be for you.
-News site like to hook Ads service into the video player code so by blcoking one you brack the other.
+News sites like to hook Ad services into the video player code so by blocking one you break the other.
 
-Please repost any issise with this list what so ever!
-Also if you have a feedback or want to help me out & suggestion a domain name please do.
+Please report any issue with this list!!
+Also if you have any feedback or want to help me out & suggestion a domain name please do.
