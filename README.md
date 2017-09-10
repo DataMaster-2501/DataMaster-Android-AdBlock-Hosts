@@ -4,9 +4,9 @@ With Android & Linux you can't use wildcard character * in the /etc/hosts file f
 that only works in Microsoft Windows OS.
 So in Android & Linux you have to list the domain name & every subdomain name as well.🙄
 
-This list blocks Ads, Analytics/Tracking Services, websites/services with a bad privacy policy.
+This list blocks Ads, Analytics/Tracking Services, Websites/Services with a bad privacy policy.
 With this list you can block ads within Android Apps & On Websites.
-This Hosts file setup for IPv4 & IPv6.
+This Hosts file is setup for IPv4 & IPv6.
 You may also use this list with https://github.com/gorhill/uBlock
 
 Keep in mind that if you really like to watch videos on news websites,
