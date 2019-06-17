@@ -14,9 +14,9 @@ So in Android & Linux you have to list the domain name & every subdomain name as
 As far as I know you have to be rooted on Android to be able to write to the /etc/hosts file
 You do this with a root file manager or you can use adaway https://adaway.org/ (root need for adaway)
 
-You can import my list into https://blokada.org/index.html from what I have been told & you don't need root for Blokada. Also this list will work with AdClear but there is no import list option from what I can see.
+You can import my list into this Android App-> https://blokada.org/index.html you don't need root for Blokada. Also this list will work with AdClear but there is no import list option from what I can see.
 
-This list blocks Ads, Analytics/Tracking Services etc...
+This list blocks Ads/marketing services, Analytics/Tracking Services etc....
 I feel the Analytics/Tracking Services that are added into Android Apps is a big privacy problem.
 With this list you can block Ads within Android Apps & On Websites.
 This file is setup for both IPv4 & IPv6.
