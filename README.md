@@ -14,7 +14,9 @@ So in Android & Linux you have to list the domain name & every subdomain name as
 As far as I know you have to be rooted on Android to be able to write to the /etc/hosts file
 You do this with a root file manager or you can use adaway https://adaway.org/ (root need for adaway)
 
-You can import my list into this Android App-> https://blokada.org/index.html you don't need root for Blokada. Also this list will work with AdClear but there is no import list option from what I can see.
+You can import my list into the blokada App-> https://blokada.org/index.html you don't need root for Blokada.
+Just add this URL: https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts to blokada & you will always get fresh updates made to the list.
+Also this list will work with AdClear but there is no import list option from what I can see in AdClear.
 
 This list blocks Ads/marketing services, Analytics/Tracking Services etc....
 I feel the Analytics/Tracking Services that are added into Android Apps is a big privacy problem.
@@ -25,10 +27,10 @@ But I will be coming out with my own uBlock list soon.
 
 Keep in mind that if you really like to watch videos on news websites,
 then this list may not be for you.
-News sites like to hook Ad services into the video player code so by blocking one you break the other.🙄
+Some News sites like to hook Ad services into the video player code so by blocking one you break the other.🙄
 
-Please report any issue with this list!!
-Also if you have any feedback or want to help me out & suggestion a domain name or App to look at please do.
+Please report any issue with this list!!!
+Also if you have any feedback or want to help me out & suggestion a domain name or an App for me to look into please do so.
 
 My message to Web-Admins/Webmasters: I hear some of you feel that blocking ads is like stealing🙄.
 Grow a brain it is not stealing!! & blocking ads is like putting on a condom so I don't get hit by drive-by downloads trying to install a virus/malware.
