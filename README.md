@@ -12,7 +12,7 @@ With Android & Linux you can't use the wildcard character * in the /etc/hosts fi
 that only works in Microsoft Windows OS.
 So in Android & Linux you have to list the domain name & every subdomain name as well.🙄
 As far as I know you have to be rooted on Android to be able to write to the /etc/hosts file
-You do this with a root file manager or you can use adaway https://adaway.org/ (root need for adaway)
+but if you have Root on your phone then find a root file file browser app & coppy over my hosts file.
 
 You can import my list into the blokada App-> https://blokada.org/index.html you don't need root for Blokada.
 Just add this URL: https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts to blokada & you will always get fresh updates made to the list.
@@ -30,7 +30,7 @@ then this list may not be for you.
 Some News sites like to hook Ad services into the video player code so by blocking one you break the other.🙄
 
 Please report any issue with this list!!!
-Also if you have any feedback or want to help me out & suggestion a domain name or an App for me to look into please do so.
+Also if you have any feedback or want to help me out & suggestion a domain name or an App for me to look into Please do so. The more feed back I get the better I can make this list.
 
 My message to Web-Admins/Webmasters: I hear some of you feel that blocking ads is like stealing🙄.
 Grow a brain it is not stealing!! & blocking ads is like putting on a condom so I don't get hit by drive-by downloads trying to install a virus/malware.
