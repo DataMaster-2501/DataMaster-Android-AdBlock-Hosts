@@ -12,7 +12,7 @@ With Android & Linux you can't use the wildcard character * in the /etc/hosts fi
 that only works in Microsoft Windows OS.
 So in Android & Linux you have to list the domain name & every subdomain name as well.🙄
 As far as I know you have to be rooted on Android to be able to write to the /etc/hosts file
-but if you have Root on your phone then find a root file file browser app & coppy over my hosts file.
+but if you have Root on your phone then find a root file browser app & coppy over my hosts file.
 
 You can import my list into the blokada App-> https://blokada.org/index.html you don't need root for Blokada.
 Just add this URL: https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts to blokada & you will always get fresh updates made to the list.
