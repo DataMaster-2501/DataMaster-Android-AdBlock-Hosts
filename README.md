@@ -30,7 +30,7 @@ But I will be coming out with my own uBlock list soon.
 This list is made from many sources.
 From: The Websites I visit & the App's I use
 but most of all I go out on the net looking for Ads & Trackers to block. (It's a Hobby)
-I've ran 100s of app over my andorid emulator logging all network traffic
+I've ran 100s of app over my andorid emulator logging all network traffic.
 I also handpick domain names to block that I find from other lists.
 When I do find a domain name I wish to block I then find all subdomains for that domain name
 by using various subdomain scanning tools.
