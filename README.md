@@ -12,7 +12,8 @@ I'm in Control of what shows up on my screen let it be on my Phone or my PC....
 This AdBlock /etc/hosts file is made for Android & Linux. <br>
 With Android & Linux you can't use the wildcard character * in the /etc/hosts file for Android & Linux, <br>
 that only works in Microsoft Windows OS. <br>
-So for example <!--- *.example.com ---> would only work on Microsoft Windows OS. <br>
+So for example 0.0.0.0       *.example.com <br>
+would only work on Microsoft Windows OS. <br>
 So in Android & Linux you have to list the domain name & every subdomain name as well.🙄 <br>
 As far as I know you have to be rooted on Android to be able to write to the /etc/hosts file<br>
 but if you have Root on your phone then find a root file browser app & coppy over my hosts file.
