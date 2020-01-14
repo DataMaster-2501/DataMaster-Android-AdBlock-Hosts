@@ -16,7 +16,7 @@ So for example 0.0.0.0       *.example.com <br>
 would only work on Microsoft Windows OS. <br>
 So in Android & Linux you have to list the domain name & every subdomain name as well.🙄 <br>
 As far as I know you have to be rooted on Android to be able to write to the /etc/hosts file<br>
-but if you have Root on your phone then find a root file browser app & coppy over my hosts file.
+but if you have Root on your phone then find a root file browser app & copy over my hosts file.
 
 You can import my list into the blokada App-> https://blokada.org/index.html You Don't Need Root For Blokada. <br>
 Just add this URL: https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts to blokada & you will always get fresh updates made to the list. <br>
