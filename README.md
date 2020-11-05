@@ -4,7 +4,7 @@
 I'm deeply sry for not replying back to the open issue people have been posting about my list
 but due to the covid19 & the economic downturn as well as many other bad things going on in my life
 I've not had the time nor the ability to work on or keep up with my list.
-I am planning on resuming work on this list in Dec-2020 if things don't worst for me.
+I am planning on resuming work on this list in Dec-2020 if things don't get worst for me.
 I'm sry for the inconvenience  
 
 ------------
