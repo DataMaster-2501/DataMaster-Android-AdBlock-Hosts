@@ -1,17 +1,17 @@
 # DataMaster-Android-AdBlock-Hosts
 
 ------------
-I'm deeply sry for not replying back to the open issue people have been posting about my list
-but due to the covid19 & the economic downturn as well as many other bad things going on in my life
+I'm deeply sry for not replying back to the open issues people have been posting about my list
+but due to the covid19 & the economic downturn as well as many other "bad things" going on in my life
 I've not had the time nor the ability to work on or keep up with my list.
-I am planning on resuming work on this list in Dec-2020 if things don't get worst for me.
-I'm sry for the inconvenience  
+I am planning on resuming work on this list in Dec-2020 if things don't get worst for me.🤞
+I am sry for any inconvenience.🙁
 
 ------------
 
 I made this list by hand to fight the ever growing Ads within Android Apps & Websites.<br>
 I hate the fact that the Internet is turning into one big billboard!!! <br>
-I started work on this list back in 2012 & over the years I thought why not share it with everyone.<br>
+I started work on this list back in 2012 (everyone needs a hobby) & over the years I thought why not share it with everyone.<br>
 
 My message to Android Developers is: <br>
 If you want to make money💰 then make people pay for your App.<br>
